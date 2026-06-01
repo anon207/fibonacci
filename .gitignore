@@ -1,0 +1,8 @@
+# Block compiled binaries and objects
+
+*.exe
+*.o
+
+# Block emacs backup files
+
+*~
