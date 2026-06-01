@@ -3,6 +3,8 @@
 *.exe
 *.o
 
-# Block emacs backup files
+# Block IDE or temporary folders
+.vscode/
 
-*~
+# block .pdb
+*.pdb
